@@ -27,7 +27,7 @@ I have published a horror game on steam, called Friday night and I'm currently w
 
 <div align="center">
 
-<a href="https://store.steampowered.com/app/3537620/Friday_Night/">
+<a href="https://store.steampowered.com/app/3537620/Friday_Night/" target="_blank">
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3537620/30e094df3691d29a053a14ec063180b95eb6309f/header.jpg" width="100%" alt="Friday Night"/>
 </a>
 <b>Friday Night</b>

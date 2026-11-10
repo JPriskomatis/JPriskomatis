@@ -61,6 +61,7 @@ A horror experience where you investigate the abandoned mansion where your famil
 | Project | Description |
 |:--|:--|
 | [Unity Dialogue System](https://github.com/JPriskomatis/Unity-Dialogue-System) | Dialogue system using ScriptableObjects for dialogue creation, Localization for each sentence and ability to add Scriptable Object events in the start/end of each sentence/conversation. |
+| [Unity Inventory System](https://github.com/JPriskomatis/Unity-Inventory-System) | 3D Minecraft style inventory system with stackable items, max stack size, ability to split and combine stacks and delete them from the inventory, following the MVC approach |
 | [Unity Extension Packages](https://github.com/JPriskomatis/UnityExtentionPackages) | Custom extensions and tools for Unity. |
 | [Bone To Be Wild](https://github.com/JPriskomatis/Bone-To-Be-Wild) | Sample project using SOLID patterns for Enemy NPCs (State Machine), Strategy Pattern for different weapons, Player gaining Abilities system, Ink! Scripting language for dialogue |
 | [Trial By Fire](https://github.com/JPriskomatis/Trial-By-Fire) | Sample 2d Action/RPG using Ink! scripting language for branching dialogues that dynamically modify the game world + Character Ability Stats system |

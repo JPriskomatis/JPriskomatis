@@ -64,7 +64,7 @@ A horror experience where you investigate the abandoned mansion where your famil
 | [Unity Inventory System](https://github.com/JPriskomatis/Unity-Inventory-System) | 3D Minecraft style inventory system with stackable items, max stack size, ability to split and combine stacks and delete them from the inventory, following the MVC approach |
 | [Unity Extension Packages](https://github.com/JPriskomatis/UnityExtentionPackages) | Custom extensions and tools for Unity. |
 | [Bone To Be Wild](https://github.com/JPriskomatis/Bone-To-Be-Wild) | Sample project using SOLID patterns for Enemy NPCs (State Machine), Strategy Pattern for different weapons, Player gaining Abilities system, Ink! Scripting language for dialogue |
-| [Trial By Fire](https://github.com/JPriskomatis/Trial-By-Fire) | Sample 2d Action/RPG using Ink! scripting language for branching dialogues that dynamically modify the game world + Character Ability Stats system |
+| [The Tavern Monster Interview](https://github.com/JPriskomatis/The-Tavern-Monster-Interview) | Monster Job Interview is a narrative-driven tavern management game where you interview monsters applying for a place in your tavern. |
 | [GPSBaseTracking](https://github.com/JPriskomatis/GPSBaseTracking) | A small Unity Augmented Reality (AR) project inspired by Pokémon GO. The project combines real-world GPS tracking with Mapbox to create a location-based AR experience. |
 | [Procedural Generation Dungeon](https://github.com/JPriskomatis/Procedural-Generation-Dungeon) | A Unity project exploring procedural generation techniques, implementing algorithms to create dynamic environments, randomized levels, and replayable game worlds. Based on the course at [Gamedevtv](https://gamedev.tv/courses/unity-procedural-generation)|
 

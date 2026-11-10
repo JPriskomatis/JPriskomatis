@@ -67,16 +67,7 @@ A horror experience where you investigate the abandoned mansion where your famil
 | [GPSBaseTracking](https://github.com/JPriskomatis/GPSBaseTracking) | A small Unity Augmented Reality (AR) project inspired by Pokémon GO. The project combines real-world GPS tracking with Mapbox to create a location-based AR experience. |
 | [Procedural Generation Dungeon](https://github.com/JPriskomatis/Procedural-Generation-Dungeon) | A Unity project exploring procedural generation techniques, implementing algorithms to create dynamic environments, randomized levels, and replayable game worlds. Based on the course at [Gamedevtv](https://gamedev.tv/courses/unity-procedural-generation)|
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Contributions](https://ghchart.rshah.org/68217A/JPriskomatis)](https://github.com/JPriskomatis)
-
-</div>
 
 **Thanks for stopping by!**
-
-*If you find something interesting here, feel free to check it out.*
 
 </div>
